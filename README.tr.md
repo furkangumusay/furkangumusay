@@ -33,4 +33,5 @@ Beş kişilik bir ekiple geliştirdiğimiz çok oyunculu Pong platformu. Backend
 
 ## İletişim
 
-[LinkedIn](https://www.linkedin.com/in/furkangumusay/) · [E-posta](mailto:furkangumusay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangumusay/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkangumusay@gmail.com)
